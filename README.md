@@ -72,19 +72,26 @@ Python was used to visualize and interpret trends from the cleaned dataset.
 | Visualization | Description |
 |----------------|-------------|
 | Cancellation Rate by Hotel Type | Compare city vs resort hotels |
-![alt text](<لقطة شاشة 2025-11-03 150321.png>)
+<img width="1269" height="648" alt="لقطة شاشة 2025-11-03 150321" src="https://github.com/user-attachments/assets/3c5acb7f-69e9-41df-bbc3-2fbf5845ddaf" />
+
 | Cancellation Rate by Month | Identify seasonal trends |
-![alt text](<لقطة شاشة 2025-11-03 150337.png>)
+<img width="1240" height="696" alt="لقطة شاشة 2025-11-03 150337" src="https://github.com/user-attachments/assets/63f722ce-ea7b-4bc3-9024-276976ef8608" />
+
 | Cancellation Rate by Deposit Type | Understand payment effects |
-![alt text](<لقطة شاشة 2025-11-03 150345.png>)
+<img width="1074" height="569" alt="لقطة شاشة 2025-11-03 150345" src="https://github.com/user-attachments/assets/d98d0558-1766-4d71-9843-c19a0c798395" />
+
 | Cancellation Rate by Lead Time | See how early bookings affect cancellations |
-![alt text](<لقطة شاشة 2025-11-03 150353.png>)
+<img width="1060" height="572" alt="لقطة شاشة 2025-11-03 150353" src="https://github.com/user-attachments/assets/0fa31b05-4038-47c1-8565-c15d080c9254" />
+
 | ADR Distribution | Explore price variations |
-![alt text](<لقطة شاشة 2025-11-03 150403.png>)
+<img width="1243" height="643" alt="لقطة شاشة 2025-11-03 150403" src="https://github.com/user-attachments/assets/6b9d391a-b8a1-4ac6-9ece-6391f993f018" />
+
 | ADR by Cancellation Status | Compare average rates between canceled and non-canceled bookings |
-![alt text](<لقطة شاشة 2025-11-03 150411.png>)
+<img width="1049" height="570" alt="لقطة شاشة 2025-11-03 150411" src="https://github.com/user-attachments/assets/fa3a7073-05ce-4381-b80b-90949d1f3553" />
+
 | Top 10 Countries | Show countries with most bookings and cancellations |
-![alt text](<لقطة شاشة 2025-11-03 150422.png>)
+<img width="1315" height="694" alt="لقطة شاشة 2025-11-03 150422" src="https://github.com/user-attachments/assets/03213259-abaa-43f2-8d29-89c9b8ec4e64" />
+
 ---
 
 ## 🧠 Insights
@@ -108,3 +115,4 @@ Python was used to visualize and interpret trends from the cleaned dataset.
 ```bash
 pip install pandas numpy matplotlib seaborn
 python hotel_analysis.py
+
